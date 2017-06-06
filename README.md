@@ -1,5 +1,5 @@
 # Minimal React Boilerplate
-This is a minimal React bolierplate with:
+This is a minimal React boilerplate with:
 
 - React
 - Webpack
